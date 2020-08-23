@@ -1,0 +1,11 @@
+* {
+  font-family: FZLTHJW;
+}
+.containter {
+  padding: 20px;
+}
+
+@font-face {
+  font-family: FZLTHJW;
+  src: url('./fonts/FZLTHJW.ttf');
+}
